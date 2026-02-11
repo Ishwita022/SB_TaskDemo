@@ -15,5 +15,5 @@ Here is a screenshot of the project in action:
  <img width="1920" height="1080" alt="get by ID" src="https://github.com/user-attachments/assets/7f0c28bb-f99d-4a10-84c5-30ef457acd88" />
 
 ## database 
-<img width="1920" height="1080" alt="get by ID" src="https://github.com/user-attachments/assets/ba890d24-8e62-40ee-b0a8-f62f0089ee96" />
+<img width="1920" height="1080" alt="database" src="https://github.com/user-attachments/assets/88c6d207-be25-4fce-b08a-6e12b5a4673c" />
 
